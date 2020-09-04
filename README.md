@@ -4,7 +4,7 @@ Today, we are going to learn about how to make a vada pav, a popular Indian stre
 ## *WHAT'S INTRESTING*
 We are also going to make pav at home. 
 
-### **[Here are the ingrediants required](/ingrediants)**
+### **[Here are the ingrediants required](/vadapav/ingrediants)**
 
-### **[Recipes for vada and pav ](/recipe)**
+### **[Recipes for vada and pav ](/vadapav/recipe)**
 
