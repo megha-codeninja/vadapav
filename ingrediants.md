@@ -37,4 +37,4 @@
 * 1 tablespoon sugar
 * 1 teaspoon salt
 
-#### [Home](/README) | [Recipe](/vadapav/recipe)
+#### [Home](/vadapav) | [Recipe](/vadapav/recipe)
