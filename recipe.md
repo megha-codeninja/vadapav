@@ -31,4 +31,4 @@
 4. Place the prepared vada in center of pav, chura and fried chilli.
 5. Finally, press the vada pav and serve immediately.
 
-#### [Home](/README.md) | [Ingrediants](/ingrediants)
+#### [Home](/) | [Ingrediants](/vadapav/ingrediants)
